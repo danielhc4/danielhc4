@@ -25,3 +25,5 @@ I'm a full stack developer for more than 15 years of experience based on Quereta
 ### :envelope: Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Herrera-0969da)](https://www.linkedin.com/in/daniel-herrerac)
+
+[Daniel Herrera](https://danielhc4.github.io/)
